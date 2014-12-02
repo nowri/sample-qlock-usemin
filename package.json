@@ -1,0 +1,16 @@
+{
+  "name": "sample-qlock",
+  "description": "JavaScript Sample",
+  "version": "0.0.0",
+  "author": "nowri.ka",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-usemin": "^2.6.2"
+  }
+}
